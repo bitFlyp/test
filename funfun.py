@@ -2,7 +2,7 @@
 ##
 ## File name: apiExampleCode.py
 ## File type: Python file
-## Size:
+## Size: N/A
 ## Author: Sunghyun Kim
 ## Created On:       3/11/2022[:]
 ## Last Modified on: 3/11/2022[19:32]
